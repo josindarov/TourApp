@@ -1,0 +1,13 @@
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Application.deps.json
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Application.dll
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Application.pdb
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Domain.dll
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Domain.pdb
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.csproj.AssemblyReference.cache
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.AssemblyInfoInputs.cache
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.AssemblyInfo.cs
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.csproj.CoreCompileInputs.cache
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.csproj.CopyComplete
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.dll
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.pdb

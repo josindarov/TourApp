@@ -1,0 +1,17 @@
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\bin\Debug\net7.0\Travel.Data.deps.json
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\bin\Debug\net7.0\Travel.Data.dll
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\bin\Debug\net7.0\Travel.Data.pdb
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\bin\Debug\net7.0\Travel.Application.dll
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\bin\Debug\net7.0\Travel.Domain.dll
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\bin\Debug\net7.0\Travel.Domain.pdb
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\bin\Debug\net7.0\Travel.Application.pdb
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\Travel.Data.csproj.AssemblyReference.cache
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\Travel.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\Travel.Data.AssemblyInfoInputs.cache
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\Travel.Data.AssemblyInfo.cs
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\Travel.Data.csproj.CoreCompileInputs.cache
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\Travel.Data.csproj.CopyComplete
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\Travel.Data.dll
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\refint\Travel.Data.dll
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\Travel.Data.pdb
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\ref\Travel.Data.dll
