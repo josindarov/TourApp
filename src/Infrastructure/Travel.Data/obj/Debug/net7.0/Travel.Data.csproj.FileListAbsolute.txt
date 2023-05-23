@@ -15,3 +15,5 @@ C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\
 C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\refint\Travel.Data.dll
 C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\Travel.Data.pdb
 C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\ref\Travel.Data.dll
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\bin\Debug\net7.0\Travel.Data.runtimeconfig.json
+C:\Users\99899\Desktop\LearningCsharp\Travel\src\infrastructure\Travel.Data\obj\Debug\net7.0\Travel.Data.genruntimeconfig.cache
